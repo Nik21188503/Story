@@ -51,6 +51,36 @@ const music_list = [
         artist : 'Lil Zpoet',
         music : 'music/Yêu Từ Đâu Mà Ra.mp3'
     },
+    {
+        img : 'images/1.jpg',
+        name : '1 Phút',
+        artist : 'Andiez',
+        music : 'music/1 Phút.mp3'
+    },
+    {
+        img : 'images/2.jpg',
+        name : 'Như Anh Đã Thấy Em',
+        artist : 'PhúcXp',
+        music : 'music/Như Anh Đã Thấy Em.mp3'
+    },
+    {
+        img : 'images/3.jpg',
+        name : 'Tự Sự',
+        artist : 'An Vũ',
+        music : 'music/Tự Sự.mp3'
+    },
+    {
+        img : 'images/4.jpg',
+        name : 'Công Chúa Bong Bóng',
+        artist : 'An Vũ',
+        music : 'music/Công Chúa Bong Bong.mp3'
+    },
+    {
+        img : 'images/5.jpg',
+        name : 'Đào Nương',
+        artist : 'Hoàng Vương',
+        music : 'music/Đào Nương.mp3'
+    },
 
 ];
 
